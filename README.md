@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sheroo1994
-- 👀 I’m interested in how to code 
-- 🌱 I’m currently searching how to start
+- 👀 I’m interested in to code 
+nvm 
 - 💞️ I’m looking to collaborate on the way to start coding 
 - 📫 How to reach me sherogaber164@gmail.com
 
